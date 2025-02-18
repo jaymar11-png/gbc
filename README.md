@@ -17,9 +17,9 @@
   - 10:00 AM - [COMP1234](https://learn.georgebrown.ca/d2l/home/342908)
   - 3:00 PM - [COOM2000](https://learn.georgebrown.ca/d2l/home/325217)
  - **Thursday**
-  - 8:00 AM - [COMP1236](https://learn.georgebrown.ca/d2l/home/337951)
-  - 10:00 AM - [MATH1162](https://learn.georgebrown.ca/d2l/home/319780)
-  - 1:00 PM - [COMP1238](https://learn.georgebrown.ca/d2l/home/334969)
+   - 8:00 AM - [COMP1236](https://learn.georgebrown.ca/d2l/home/337951)
+   - 10:00 AM - [MATH1162](https://learn.georgebrown.ca/d2l/home/319780)
+   - 1:00 PM - [COMP1238](https://learn.georgebrown.ca/d2l/home/334969)
 - **Friday**
   - 12:00 PM - [COMP1151](https://learn.georgebrown.ca/d2l/home/335096)
  
