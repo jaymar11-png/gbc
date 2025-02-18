@@ -4,6 +4,8 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [COMP1238 Notes](comp1238.md)
+- [GBC email](https://outlook.office365.com/mail/)
+
 
 ## Schedule
 - **Monday**
