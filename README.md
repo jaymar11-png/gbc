@@ -9,7 +9,7 @@
 
 ## Schedule
 - **Monday**
-  - 10:00 AM - [COMP1236](https://learn.georgebrown.ca/d2l/home/337951)
+  - 10:00 AM -[COMP1236](https://learn.georgebrown.ca/d2l/home/337951)
   - 1:00 PM - [COMP1238](https://learn.georgebrown.ca/d2l/home/334969)
   - 4:00 PM - [COMP1151](https://learn.georgebrown.ca/d2l/home/335096)
 - **Tuesday**
